@@ -19,28 +19,27 @@ font-size: 26pt;
 <title>My Amuse</title>
 </head>
 <body>
-<h1>Welcome to my site filled with things that amuse me the most</h1>
-<h3>By ya Boi Alexis Covarrubias (aka Chato_444)</h3>
-<p>I don't love a lot of things, but out of the few things that I do... The internet is one of them :)</p>
-<p>Here I present to you the top three things that cause me joy:</p>
+<h1>Welcome to my site. It has things that amuse me the most</h1>
+<h3>By Mohamed Diallo </h3>
+<p>These are the things that i like to do the most. </p>
 <section>
 <h2>Watch when you've had a rough day</h2>
-<p>Sometimes after a long day of work or school, I find it hard to find the motivation to do anything. When I find myself in this mood, I put this classic on!</p>
-<a href="https://www.youtube.com/watch?v=RHyEOsz_La0">B Tier Comedy</a>
+<p>When it's hard for me to do anything, I watch this video</p>
+<a href="https://www.youtube.com/watch?v=9LCMuKtpnPE">B Kevin hart at the office</a>
 </section>
 <section>
-<h2>Top level comedy... LMAO hall of fame</h2>
-<p>This will forever be the staple of the finest comedy to have ever been created on earth</p>
-<a href="https://www.youtube.com/shorts/ZCMMIgOlW7g">A Tier Comedy</a>
+<h2>World's funniest page</h2>
+<p>This will have you rolling on the floor</p>
+<a href="https://www.youtube.com/watch?v=uKjIcHeSme4">A Tier Comedy</a>
 </section>
 <section>
-<h2>Play at my funeral</h2>
-<p>This site brings me the most joy I have ever experienced</p>
-<a href="https://www.youtube.com/watch?v=X1r0d7Ta6TY">S Tier Comedy</a>
+<h2>Play this when you're not in the mood</h2>
+<p>This site reminds me of the prime vine days</p>
+<a href=https://www.youtube.com/watch?v=bebrBBpu-js>B Tier Comedy</a>
 </section>
 <div>
 <p>
-<a href="https://cova3348.github.io/">Back to Home</a>
+<a href="https://github.com/mmd06/mmd06.github.io">Back to Home</a>
 </p>
 </div>
 </body>
